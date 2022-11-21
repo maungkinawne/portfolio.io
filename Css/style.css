@@ -1,0 +1,17 @@
+@media screen and (min-width:400px){
+    body{
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        background: red;
+    }
+
+    .navbar-nav .media li a{
+        display: block;
+    }
+    
+}
+
+.footer p{
+    color: #000;
+}
